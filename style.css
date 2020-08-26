@@ -685,11 +685,6 @@ button{
         top: 3.5%;
         z-index: 1;
     }
-    nav{
-        float: right;
-        overflow: auto;
-        
-    }
 
     #cm{
         margin-left: 35%;
